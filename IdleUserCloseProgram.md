@@ -17,7 +17,7 @@ The script detects both if the user is absent with the window active and does no
 
 ### How to use
 
-- Install Autoit and SciTeE Editor
+- Install Autoit and SciTE Editor
 - Download and modify code
 - Tools > Compile (it will create en exe in same path as script)
 - Copy exe to C:\Users\[User Name]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup or your favorite method to execute things at startup.
