@@ -79,7 +79,7 @@ While 1
 
 		 If $Seconds >= $SecondsInactiveWindowIsIdle And ProcessExists("Program.exe") Then ; Check to see if the number of seconds program has not been active is greater than threshold defined above.
 			;Do
-            ;        SplashTextOn("Sigrid Timeout Reached", "Program has been idle for longer than 1 minute." _
+            ;        SplashTextOn("Program Timeout Reached", "Program has been idle for longer than 1 minute." _
             ;                      & @CRLF & @CRLF & "Program will be shut down in the next minute.", 500, 250, -1, -1, -1, "", 20, 900)
 
             ;$SecondCounter = 0
